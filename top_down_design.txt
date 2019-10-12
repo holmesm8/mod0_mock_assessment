@@ -1,0 +1,53 @@
+Making a sandwich
+
+1 Gather ingredients
+  1.1 Grab Sliced bread
+    1.1.1 Choose choice of bread
+      1.1.1.1 Open cupboard and grab the bag of sliced bread
+      1.1.1.2 Put bag of bread on kitchen table
+  1.2 Grab Sliced Turkey
+    1.2.1 Open refrigerator and grab bag of sliced turkey
+    1.2.2 Put bag of sliced turkey on kitchen table
+  1.3 Get lettuce
+    1.3.1 Open refrigerator and grab head of lettuce
+    1.3.2 Put lettuce on kitchen table
+  1.4 Get Mayo
+    1.4.1 Open refrigerator and grab bottle of Mayo
+    1.4.2 Put Mayo on kitchen table
+  1.5 Get Cheese
+    1.5.1 Open refrigerator and grab package of cheese
+    1.5.2 Put package of cheese on kitchen table
+2 Gather tools
+  2.1 Get a full size dinner plate
+    2.1.1 Grab plate from cabinet
+    2.1.2 Place on kitchen table
+  2.2 Get a butter knife
+    2.2.1 Grab butter knife from drawer
+    2.2.2 Place butter knife on kitchen table
+3 Start making the sandwich
+  3.1 Place slice of bread on plate
+    3.1.1 Open bag of bread
+    3.1.2 Grab one slice
+    3.1.3 Place slice on plate
+  3.2 Place 4 slices of turkey on top of bread
+    3.2.1 Open bag of turkey and grab 4 slices
+    3.2.2 Place 4 slices of bread evenly on bread
+  3.3 Place 2 pieces of lettuce on top of turkey
+    3.3.1 Peel two thin slices of lettuce from lettuce head
+    3.3.2 Put the two pieces evenly on top of the turkey
+  3.4 Place slice of cheese on top of lettuce
+    3.4.1 Grab slice of cheese from package
+    3.4.2 Place slice of cheese on top of lettuce
+  3.5 Spread mayo on second slice of bread
+    3.5.1 Grab butter knife
+    3.5.2 Open mayo bottle
+    3.5.3 Gather mayo on butter knife
+    3.5.4 Grab second slice of bread from bag
+    3.5.5 Spread that mayo on the second slice of bread
+  3.6 Finish making the sandwich
+    3.6.1 Place mayo slice bread on top of cheese
+4 Enjoy sandwich
+  4.1 Grab the sandwich
+  4.2 Take bite of sandwich
+  4.3 Don't choke
+  4.4 Enjoy

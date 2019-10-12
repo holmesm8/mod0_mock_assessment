@@ -1,0 +1,15 @@
+Class Boat
+
+Attributes:
+boatName (string)
+color (string)
+materials (string)
+peopleCapacity (integer)
+currentPeople (array)
+propulsion (string)
+
+Methods
+changeColor (modifies color attribute)
+addPerson (if currentPeople < peopleCapacity then add person to currentPeople)
+rename (modifies boatName attribute)
+engagePropulsion (turns propulsion attribute on)

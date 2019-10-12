@@ -1,0 +1,18 @@
+Instances
+
+Sailboat
+boatName (Wind Chaser)
+color (white)
+materials (carbon fiber)
+peopleCapacity (20)
+currentPeople (1)
+propulsion (sail)
+
+
+Rowboat
+boatName (Gliding Squirrel)
+color (black)
+materials (wood)
+peopleCapacity (4)
+currentPeople (4)
+propulsion (oars)
